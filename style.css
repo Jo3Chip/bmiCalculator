@@ -1,0 +1,45 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #232323;
+}
+
+main{
+  width: fit-content;
+  height: fit-content;
+  padding: 5%;
+  margin: 100px auto;
+  background-color: #f2f2f2;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.bmiForm{
+  margin-top: 10%;
+  font-size: 20px;
+}
+
+input{
+  text-align: center;
+  margin: 10px;
+}
+
+.cta{
+  margin-top: 5%;
+  font-size: 16px;
+  color: #f2f2f2;
+  background: #232323;
+  padding: 8px;
+  border-radius: 15px;
+  outline: none;
+}
+
+#results{
+  margin-top: 10%;
+  font-size: 20px;
+  font-weight: bold;
+}
